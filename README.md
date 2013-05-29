@@ -1,4 +1,6 @@
-haha
+haha, 
 
-hello world
+helloworld
+
+I promise git is easy . 
 
